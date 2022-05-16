@@ -1,6 +1,6 @@
 <?php
 
-use App\Corona;
+use App\Models\Corona;
 use Illuminate\Database\Seeder;
 
 class CoronaSeeder extends Seeder

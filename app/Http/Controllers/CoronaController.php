@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Corona;
+use App\Models\Corona;
 
 class CoronaController extends Controller
 {
